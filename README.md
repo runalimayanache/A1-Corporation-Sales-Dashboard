@@ -16,5 +16,5 @@ This Power BI dashboard provides insights into:
 - Excel (Data Source)
 
 ## 📷 Dashboard Preview
-![A1 Corporation Dashboard](A1_Corporation_Dashboard.png)
+https://github.com/runalimayanache/A1-Corporation-Sales-Dashboard/blob/main/a1%20dashboard.png
 
